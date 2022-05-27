@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog!",
+      "body": "This is my first blog on my first react application! I think react is pretty neat and a lot of fun to learn",
+      "author": "Jeff",
+      "id": 1
+    },
+    {
+      "title": "Opening ",
+      "body": "This is my first blog on my first react application! I think react is pretty neat and a lot of fun to learn",
+      "author": "Not Jeff",
+      "id": 2
+    },
+    {
+      "title": "NEW BLOG",
+      "body": "This is a new blog",
+      "author": "mario",
+      "id": 3
+    }
+  ]
+}
